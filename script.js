@@ -281,11 +281,5 @@ finalResult = -1;
 
 
 /*
-
-akshat's branch
-2nd commit
-*/
-
-/*
 diksha branch
 */
